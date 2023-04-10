@@ -1,0 +1,3 @@
+raiz = {
+  personaje = {mode = "listo"}
+}
